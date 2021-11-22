@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/CarvalhoE">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CarvalhoE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img alt="pic" height="130em" style="border-radius:50px;" src="https://media.discordapp.net/attachments/863567644560851005/895064662670970900/Exercito_no_BG.png?width=608&height=608">
+  <img alt="pic" height="130em" style="border-radius:50px;" src="https://i.ibb.co/nkhRZpD/Exercito-no-BG.png?width=608&height=608">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvalhoE&layout=compact&langs_count=7&theme=tokyonight"/>
   
 </div>
