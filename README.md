@@ -1,4 +1,4 @@
-###                          Olá, sou Breno E Carvalho. Estudante de Analise e Desenvolvimento de Sistemas - UNICSUL e sou um Designer freelancer !👋
+###                         Estudante de Analise e Desenvolvimento de Sistemas - UNICSUL | Designer | freelancer !👋
 
 <div align="center">
   <a href="https://github.com/CarvalhoE">
