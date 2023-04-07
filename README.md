@@ -1,4 +1,4 @@
-###                         Estudante de Analise e Desenvolvimento de Sistemas - UNICSUL | Designer | freelancer !👋
+### Formado em Analise e Desenvolvimento de Sistemas - UNICSUL | Designer | freelancer !👋.
 
 <div align="center">
   <a href="https://github.com/CarvalhoE">
