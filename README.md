@@ -23,7 +23,6 @@ Dê uma olhada no meu [Portfolio 🌍](https://carvalhoportfolio.000webhostapp.c
 <a href="https://twitter.com/Breno_EC"> <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">       </a>
     <a href="https://www.linkedin.com/in/brenoec/"> <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://discord.gg/ScKEQ37QXa"> <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="(mailto:stackoverglesp@gmail.com"> <img align="center" alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br><br>
   <img align="center" alt="PS" height="30"       src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">  
   <img align="center" alt="Figma" height="30"    src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">  
