@@ -3,7 +3,7 @@
 Me chamo Breno, formado em Análise e Desenvolvimento de sistemas pela Universidade Cruzeiro do Sul 💻.
 
 Tenho uma paixão por diferentes áreas que a tecnologia nos propõe, sendo uma delas programação, tendo como principais projetos desenvolvidos em Java, C# e Javascript/Node.JS
-Dê uma olhada no meu [Portfolio 🌍](https://carvalhoportfolio.000webhostapp.com/)
+Dê uma olhada no meu [Portfolio 🌍](https://carvalhoportfolio.netlify.app)
 ##
 <div align="center">
   <a href="https://github.com/CarvalhoE">
